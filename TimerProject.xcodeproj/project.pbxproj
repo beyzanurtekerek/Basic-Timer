@@ -40,7 +40,7 @@
 		D849BF802C56EDE100493DB8 = {
 			isa = PBXGroup;
 			children = (
-				D849BF8B2C56EDE100493DB8 /* TimerProject */,
+				D849BF8B2C56EDE100493DB8 /* Timer */,
 				D849BF8A2C56EDE100493DB8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D849BF8B2C56EDE100493DB8 /* TimerProject */ = {
+		D849BF8B2C56EDE100493DB8 /* Timer */ = {
 			isa = PBXGroup;
 			children = (
 				D849BF8C2C56EDE100493DB8 /* AppDelegate.swift */,
@@ -64,7 +64,7 @@
 				D849BF972C56EDE300493DB8 /* LaunchScreen.storyboard */,
 				D849BF9A2C56EDE300493DB8 /* Info.plist */,
 			);
-			path = TimerProject;
+			path = Timer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
